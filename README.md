@@ -1,4 +1,11 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&hide_rank=true&hide_border=true">
+
+### Riccardo Orlando 👋
+
+- 🎓 M.S. degree in Engineering in Computer Science
+- 🌍 Sapienza University of Rome
+- 💻 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
+
 
 <!--
 **Riccorl/Riccorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
