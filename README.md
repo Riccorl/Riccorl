@@ -9,12 +9,18 @@
 <br />
 <br />
 
-![Riccorl's github stats](https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact)](https://github.com/Riccorl/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact" />
+</a>
 
 <!--
+
+[![Riccorl's github stats](https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=tru&ebg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&hide_rank=true&hide_border=true">
 
