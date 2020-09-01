@@ -6,7 +6,6 @@
 - 💻 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
 
 <br />
-<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=synthwave" />
