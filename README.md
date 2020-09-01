@@ -10,10 +10,10 @@
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <!--
