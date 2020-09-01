@@ -1,4 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&hide_rank=true&hide_border=true">
 
 ### Riccardo Orlando 👋
 
@@ -10,12 +9,18 @@
 <br />
 <br />
 
-<a href="https://github.com/Riccorl/Super-SloMo-tf2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=Super-SloMo-tf2" />
-</a>
+![Riccorl's github stats](https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact)](https://github.com/Riccorl/github-readme-stats)
 
 
 <!--
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&hide_rank=true&hide_border=true">
+
+<a href="https://github.com/Riccorl/Super-SloMo-tf2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=Super-SloMo-tf2" />
+</a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/TIejJSkHLZh4s/giphy.gif" width="200" height="200">
