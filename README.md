@@ -1,7 +1,7 @@
 
 ### Riccardo Orlando 👋
 
-- 👨🏻‍💻 NLP Engineer @ Babelscape
+- 👨🏻‍💻 NLP Engineer @Babelscape
 - 🎓 M.S. degree in Engineering in Computer Science
 - 🌍 Sapienza University of Rome
 - 💼 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
