@@ -1,7 +1,7 @@
 
 ### Riccardo Orlando 👋
 
-- 👨🏻‍💻 NLP Engineer @Babelscape
+- 👨🏻‍💻 **NLP Engineer** @Babelscape
 - 🎓 M.S. degree in Engineering in Computer Science
 - 🌍 Sapienza University of Rome
 - 💼 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
@@ -10,17 +10,12 @@
 
 <p align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=tokyonight&line_height=27" />
 </a>
-</p>
-
-<p align=center>
-<br />
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&theme=tokyonight&hide=perl,autohotkey" />
 </a>
 </p>
-
 <!--
 
 [![Riccorl's github stats](https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=tru&ebg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
