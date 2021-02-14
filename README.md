@@ -1,18 +1,25 @@
 
 ### Riccardo Orlando 👋
 
+- 👨🏻‍💻 NLP Engineer @ Babelscape
 - 🎓 M.S. degree in Engineering in Computer Science
 - 🌍 Sapienza University of Rome
-- 💻 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
+- 💼 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
 
 <br />
 
+<p style="text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=synthwave" />
 </a>
+</p>
+
+<p style="text-align: center;">
+<br />
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&layout=compact&theme=synthwave" />
 </a>
+</p>
 
 <!--
 
