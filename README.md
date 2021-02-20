@@ -6,8 +6,6 @@
 - 🌍 Sapienza University of Rome
 - 💼 [Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
 
-<br />
-
 ### Stats
 
 <p align=center>
