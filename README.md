@@ -19,7 +19,7 @@
 
 ### API
 
-<p align=center>
+<p align=left>
 <a href="https://github.com/Riccorl/transformer-embedder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=tokyonight" />
 </a>
