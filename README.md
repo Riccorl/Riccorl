@@ -1,29 +1,38 @@
 
-### Riccardo Orlando 👋
+# Ao 👋
 
 - 👨🏻‍💻 &nbsp;**NLP Engineer** @Babelscape
 - 🎓 &nbsp;M.S. degree in Engineering in Computer Science
 - 🌍 &nbsp;Sapienza University of Rome
-- 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/riccardo-orlando/)
 
-### Stats
+<br />
 
-<p align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=tokyonight&line_height=27" />
-</a>
-</p>
-<p align=center>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&theme=tokyonight&hide=perl,autohotkey" />
-</a>
-</p>
+
+  [![Linkedin: riccardo-orlando](https://img.shields.io/badge/-Riccardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-orlando)](https://www.linkedin.com/in/riccardo-orlando/)
+  [![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)
+
 
 ### API
 
 <p align=left>
 <a href="https://github.com/Riccorl/transformer-embedder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/Riccorl/ner-serve">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=ner-serve&theme=shades-of-purple" />
+</a> 
+</p>
+
+
+
+### Stats
+
+<p align=left>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=tokyonight&line_height=33" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&theme=tokyonight&langs_count=4&hide=perl,TeX,jsonnet,autohotkey" />
 </a>
 </p>
 
