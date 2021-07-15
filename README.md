@@ -16,10 +16,10 @@
 
 <p align=left>
 <a href="https://github.com/Riccorl/transformer-embedder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=shades-of-purple&hide_border=true" />
 </a>
 <a href="https://github.com/Riccorl/ner-serve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=ner-serve&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=ner-serve&theme=shades-of-purple&hide_border=true" />
 </a> 
 </p>
 
@@ -27,14 +27,20 @@
 
 ### Stats
 
+#### 👨🏻‍💻 GitHub Profile Stats
+
 <p align=left>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=tokyonight&line_height=33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=tokyonight&line_height=33&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&theme=tokyonight&langs_count=4&hide=perl,TeX,jsonnet,autohotkey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riccorl&theme=tokyonight&langs_count=4&hide=perl,TeX,jsonnet,autohotkey&hide_border=true" />
 </a>
 </p>
+
+#### ⚡️ Recent GitHub Activity
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=riccorl&theme=github&hide_border=true)](https://github.com/Riccorl)
 
 <!--
 
