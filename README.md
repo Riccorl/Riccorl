@@ -2,7 +2,7 @@
 # Ao 👋
 
 - 👨🏻‍💻 &nbsp;**NLP Engineer** @Babelscape
-- 🎓 &nbsp;M.S. degree in Engineering in Computer Science
+- 🎓 &nbsp;**PhD Student** @SapienzaNLP 
 - 🌍 &nbsp;Sapienza University of Rome
 
 <br />
