@@ -51,6 +51,8 @@
 <img src="assets/noframes.gif" alt="Microsoft Internet Explorer" />
 </p>
 
+<br>
+
 <hr>
 
 <br>
@@ -71,6 +73,8 @@
 
 ### API
 
+<br>
+
 <p align=left>
 <a href="https://github.com/Riccorl/transformer-embedder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=shades-of-purple&hide_border=true" />
@@ -80,13 +84,14 @@
 </a> 
 </p>
 
+<br>
+
 <hr>
 
 ### Stats
 
-<br>
 
-#### 👨🏻‍💻 GitHub Profile Stats
+#### 👨🏻‍💻&nbsp;GitHub Profile Stats
 
 <p align=left>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -99,9 +104,8 @@
 
 <br>
 
-#### ⚡️ Recent GitHub Activity
+#### ⚡️&nbsp;Recent GitHub Activity
 
-<br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=riccorl&theme=github&hide_border=true)](https://github.com/Riccorl)
 
