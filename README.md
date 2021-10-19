@@ -53,6 +53,8 @@
 
 <hr>
 
+<br>
+
 ### Contacts
 
 <br>
@@ -82,6 +84,8 @@
 
 ### Stats
 
+<br>
+
 #### 👨🏻‍💻 GitHub Profile Stats
 
 <p align=left>
@@ -93,9 +97,15 @@
 </a>
 </p>
 
+<br>
+
 #### ⚡️ Recent GitHub Activity
 
+<br>
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=riccorl&theme=github&hide_border=true)](https://github.com/Riccorl)
+
+<br>
 
 <!--
 
