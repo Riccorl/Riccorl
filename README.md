@@ -6,7 +6,7 @@
 - 🌍 &nbsp;Sapienza University of Rome -->
 
 <!-- Social -->
-<p align=center>
+<div align="center">
 <table width="100%">
 <tr>
 
@@ -37,7 +37,7 @@
 
 </tr>
 </table>
-</p>
+</div>
 
 <p align=center>
 <img src="assets/notepad.gif" alt="Site created with Notepad" height="30" />
