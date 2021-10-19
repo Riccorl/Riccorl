@@ -7,6 +7,9 @@
 
 <!-- Social -->
 <div align="center">
+
+<img height="200" src="assets/wordart.png">
+
 <table width="100%">
 <tr>
 
