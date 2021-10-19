@@ -1,16 +1,78 @@
 
-# Ao 👋
+# AO 👋
 
+<!-- - 🎓 &nbsp;**PhD Student** @SapienzaNLP
 - 👨🏻‍💻 &nbsp;**NLP Engineer** @Babelscape
-- 🎓 &nbsp;**PhD Student** @SapienzaNLP 
-- 🌍 &nbsp;Sapienza University of Rome
+- 🌍 &nbsp;Sapienza University of Rome -->
 
+<!-- Social -->
+<table width="100%">
+<tr>
+
+<td align="center">
+<strong>🎓 &nbsp;PhD Student @SapienzaNLP</strong>
 <br />
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="95" alt="Book" src="assets/study3.gif"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
 
-  [![Linkedin: riccardo-orlando](https://img.shields.io/badge/-Riccardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-orlando)](https://www.linkedin.com/in/riccardo-orlando/)
-  [![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)
+<td align="center">
+<strong>👨🏻‍💻 &nbsp;NLP Engineer @Babelscape</strong>
+<br />
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="95" alt="Music" src="assets/at_work.gif"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+
+<td align="center">
+<strong>Sapienza University of Rome</strong>
+<br />
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img alt="Globe" height="80" src="assets/world_03.gif?raw=true">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</td>
+
+</tr>
+</table>
+
+<p align=center>
+<img src="assets/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="assets/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="assets/noframes.gif" alt="Microsoft Internet Explorer" />
+</p>
+
+<hr>
+
+### Contacts
+
+<br>
+
+[![Linkedin: riccardo-orlando](https://img.shields.io/badge/-Riccardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-orlando)](https://www.linkedin.com/in/riccardo-orlando/)
+[![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)
+
+<hr>
 
 ### API
 
@@ -23,7 +85,7 @@
 </a> 
 </p>
 
-
+<hr>
 
 ### Stats
 
@@ -71,4 +133,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
