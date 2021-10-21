@@ -59,7 +59,7 @@
 
 [![Linkedin: riccardo-orlando](https://img.shields.io/badge/-Riccardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-orlando)](https://www.linkedin.com/in/riccardo-orlando/)&nbsp;&nbsp;
 [![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)&nbsp;&nbsp;
-[![Scholar Riccardo-Orlando](https://img.shields.io/badge/Riccardo-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://www.researchgate.net/profile/Riccardo-Orlando)&nbsp;&nbsp;
+[![Scholar Riccardo-Orlando](https://img.shields.io/badge/Riccardo-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pYfNxg4AAAAJ)&nbsp;&nbsp;
 [![ResearchGate Riccardo-Orlando](https://img.shields.io/badge/Riccardo-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Riccardo-Orlando)&nbsp;&nbsp;
 [![Twitter Riccorl](https://img.shields.io/twitter/follow/RiccardoRicOrl?style=social)](https://twitter.com/RiccardoRicOrl)
 
