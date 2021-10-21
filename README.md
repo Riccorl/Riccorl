@@ -51,22 +51,29 @@
 <img src="assets/noframes.gif" alt="Microsoft Internet Explorer" />
 </p>
 
+<br>
+
 <hr>
+
+<br>
 
 ### Contacts
 
 <br>
 
 [![Linkedin: riccardo-orlando](https://img.shields.io/badge/-Riccardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-orlando)](https://www.linkedin.com/in/riccardo-orlando/)&nbsp;&nbsp;
-[![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)&nbsp;&nbsp;
-[![Scholar Riccardo-Orlando](https://img.shields.io/badge/Riccardo-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pYfNxg4AAAAJ)&nbsp;&nbsp;
+[![Scholar Riccardo-Orlando](https://img.shields.io/badge/Riccardo-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://www.researchgate.net/profile/Riccardo-Orlando)&nbsp;&nbsp;
 [![ResearchGate Riccardo-Orlando](https://img.shields.io/badge/Riccardo-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Riccardo-Orlando)&nbsp;&nbsp;
+[![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)&nbsp;&nbsp;
 [![Twitter Riccorl](https://img.shields.io/twitter/follow/RiccardoRicOrl?style=social)](https://twitter.com/RiccardoRicOrl)
 
+<br>
 
 <hr>
 
 ### API
+
+<br>
 
 <p align=left>
 <a href="https://github.com/Riccorl/transformer-embedder">
@@ -77,11 +84,14 @@
 </a> 
 </p>
 
+<br>
+
 <hr>
 
 ### Stats
 
-#### 👨🏻‍💻 GitHub Profile Stats
+
+#### 👨🏻‍💻&nbsp;GitHub Profile Stats
 
 <p align=left>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -92,9 +102,14 @@
 </a>
 </p>
 
-#### ⚡️ Recent GitHub Activity
+<br>
+
+#### ⚡️&nbsp;Recent GitHub Activity
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=riccorl&theme=github&hide_border=true)](https://github.com/Riccorl)
+
+<br>
 
 <!--
 
