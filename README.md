@@ -77,7 +77,7 @@
 
 <p align=left>
 <a href="https://github.com/Riccorl/transformer-embedder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformer-embedder&theme=shades-of-purple&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformers-embedder&theme=shades-of-purple&hide_border=true" />
 </a>
 <a href="https://github.com/Riccorl/ner-serve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=ner-serve&theme=shades-of-purple&hide_border=true" />
