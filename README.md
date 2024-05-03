@@ -22,14 +22,6 @@
 </td>
 
 <td align="center">
-<strong>👨🏻‍💻 &nbsp;NLP Engineer @Babelscape</strong>
-<br />
-
-<img height="95" alt="Music" src="assets/at_work.gif"> 
-</a>
-</td>
-
-<td align="center">
 <strong>Sapienza University of Rome</strong>
 <br />
 <br />
@@ -51,11 +43,7 @@
 <img src="assets/noframes.gif" alt="Microsoft Internet Explorer" />
 </p>
 
-<br>
-
 <hr>
-
-<br>
 
 ### Contacts
 
@@ -67,33 +55,42 @@
 [![GitHub Riccorl](https://img.shields.io/github/followers/riccorl?label=follow&style=social)](https://github.com/Riccorl)&nbsp;&nbsp;
 [![Twitter Riccorl](https://img.shields.io/twitter/follow/RiccardoRicOrl?style=social)](https://twitter.com/RiccardoRicOrl)
 
-<br>
+<be>
 
 <hr>
 
-### API
+### Cool Projects
 
-<br>
+<table width="100%">
+<tr>
 
-<p align=left>
-<a href="https://github.com/Riccorl/transformer-embedder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=transformers-embedder&theme=shades-of-purple&hide_border=true" />
+<td align="center">
+<strong>🎓 &nbsp;Minerva LLMs</strong>
+<br />
+<img height="80%" width="80%" alt="minerva" src="https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/sapienzanlp/minerva-llms-661e6011828fe67de4fe7961.png"> 
 </a>
-<a href="https://github.com/Riccorl/ner-serve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riccorl&repo=ner-serve&theme=shades-of-purple&hide_border=true" />
-</a> 
-</p>
+</td>
 
-<br>
+<td align="center">
+<strong>🦮 &nbsp;Golden Retriever</strong>
+<br />
+<img height="80%" width="80%" alt="golden" src="https://opengraph.githubassets.com/14b24a708cf4f623c55033f080efb7f01edd9e9c0e167f792735c969401a792d/Riccorl/golden-retriever"> 
+</a>
+</td>
+
+</tr>
+</table>
+
+<be>
 
 <hr>
 
 ### Stats
 
 
-#### 👨🏻‍💻&nbsp;GitHub Profile Stats
+<!-- #### 👨🏻‍💻&nbsp;GitHub Profile Stats -->
 
-<p align=left>
+<p align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riccorl&show_icons=true&theme=tokyonight&line_height=33&hide_border=true" />
 </a>
