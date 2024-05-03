@@ -67,14 +67,14 @@
 <td align="center">
 <strong>🎓 &nbsp;Minerva LLMs</strong>
 <br />
-<img height="80%" width="80%" alt="minerva" src="https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/sapienzanlp/minerva-llms-661e6011828fe67de4fe7961.png"> 
+<a href="https://huggingface.co/collections/sapienzanlp/minerva-llms-661e6011828fe67de4fe7961"><img height="80%" width="80%" alt="minerva" src="https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/sapienzanlp/minerva-llms-661e6011828fe67de4fe7961.png"> 
 </a>
 </td>
 
 <td align="center">
 <strong>🦮 &nbsp;Golden Retriever</strong>
 <br />
-<img height="80%" width="80%" alt="golden" src="https://opengraph.githubassets.com/14b24a708cf4f623c55033f080efb7f01edd9e9c0e167f792735c969401a792d/Riccorl/golden-retriever"> 
+<a href="https://github.com/Riccorl/golden-retriever"><img height="80%" width="80%" alt="golden" src="https://opengraph.githubassets.com/14b24a708cf4f623c55033f080efb7f01edd9e9c0e167f792735c969401a792d/Riccorl/golden-retriever"> 
 </a>
 </td>
 
