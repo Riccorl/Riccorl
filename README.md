@@ -10,24 +10,31 @@
 
 <img height="300" src="assets/wordart.png">
 
+<p><i>I build language tech that works at scale. Sometimes it even works on the first try.</i></p>
+
 <table width="100%">
 <tr>
 
 <td align="center">
-<strong>🎓 &nbsp;PhD Student @SapienzaNLP</strong>
+<strong>💼 &nbsp;Senior AI Engineer @ <a href="https://principled-intelligence.com">Principled Intelligence</a></strong>
 <br />
 
-<img height="95" alt="Book" src="assets/study3.gif"> 
-</a>
+<img height="80" alt="Under construction" src="assets/at_work.gif">
 </td>
 
 <td align="center">
-<strong>Sapienza University of Rome</strong>
+<strong>🎓 &nbsp;PhD @SapienzaNLP (survived, somehow)</strong>
+<br />
+
+<img height="95" alt="Book" src="assets/study3.gif">
+</td>
+
+<td align="center">
+<strong>Rome, Italy</strong>
 <br />
 <br />
 
 <img alt="Globe" height="80" src="assets/world_03.gif?raw=true">
-</a>
 </td>
 
 </tr>
@@ -49,6 +56,7 @@
 
 <br>
 
+[![Website riccardorlando.xyz](https://img.shields.io/badge/riccardorlando.xyz-000080?style=flat&logo=internetexplorer&logoColor=white)](https://riccardorlando.xyz/)&nbsp;&nbsp;
 [![Linkedin: riccardo-orlando](https://img.shields.io/badge/-Riccardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-orlando)](https://www.linkedin.com/in/riccardo-orlando/)&nbsp;&nbsp;
 [![Scholar Riccardo-Orlando](https://img.shields.io/badge/Riccardo-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pYfNxg4AAAAJ)&nbsp;&nbsp;
 [![ResearchGate Riccardo-Orlando](https://img.shields.io/badge/Riccardo-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Riccardo-Orlando)&nbsp;&nbsp;
@@ -61,8 +69,17 @@
 
 ### Cool Projects
 
+<p><i>Please star them. My reviewer 2 didn't.</i></p>
+
 <table width="100%">
 <tr>
+
+<td align="center">
+<strong>🔗 &nbsp;ReLiK</strong>
+<br />
+<a href="https://github.com/SapienzaNLP/relik"><img height="80%" width="80%" alt="relik" src="https://opengraph.githubassets.com/1/SapienzaNLP/relik">
+</a>
+</td>
 
 <td align="center">
 <strong>🎓 &nbsp;Minerva LLMs</strong>
